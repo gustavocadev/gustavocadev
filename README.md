@@ -1,4 +1,4 @@
-¡Hola! 👋 , soy Gustavo Bienvenido/a \^o^/ ~ 👋 Hi, I’m @Gustavocadev
+¡Hola! 👋 , soy Gustavo Bienvenido/a \\^o^/ ~ 👋 Hi, I’m @Gustavocadev
 - 👀 I’m interested in learning languages
 - 🌱 I’m currently learning React, Remix run, Nodejs and Go
 
