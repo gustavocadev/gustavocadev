@@ -1,8 +1,11 @@
 ¡Hola! 👋 , soy Gustavo Bienvenido/a \\^o^/ ~ 👋 Hi, I’m @Gustavocadev
-- 👀 I’m interested in learning languages
-- 🌱 I’m currently learning React, Remix run, Nodejs and Go
+- 🌱 I’m currently learning Go
 
+Runtimes / Frameworks
+I code in Node.js, Deno, React, Remix run, Express, Oak
 
+Databases
+MongoDB
 
 <!---
 gustavoca11/gustavoca11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
