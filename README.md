@@ -1,4 +1,5 @@
-# ¡Hola! 👋 , soy Gustavo Bienvenido/a \\^o^/ ~ 👋 Hi, I’m @Gustavocadev
+# es: ¡Hola! 👋 , soy Gustavo Bienvenido/a \\^o^/ 
+# en: ~ 👋 Hello!, I’m @Gustavocadev welcome here! \\^o^/ 
 - 🌱 I’m currently learning Go
 
 ### Runtimes / Frameworks
