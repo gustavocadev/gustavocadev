@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Go
 
 ### Runtimes / Frameworks
-I code in Node.js, Deno, React, Remix run, Express, Oak
+I code in JavaScript, TypeScript Node.js, Deno, React, Remix run, Express, Oak
 
 ### Databases
 MongoDB
