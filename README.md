@@ -1,6 +1,6 @@
 # es: ¡Hola! 👋 , soy Gustavo Bienvenido/a \\^o^/ 
 # en: Hello! 👋, I’m @Gustavocadev welcome here! \\^o^/ 
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Deno
 
 ### Runtimes / Frameworks
 I code in JavaScript, TypeScript Node.js, Deno, React, Remix run, Express, Oak
