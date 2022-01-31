@@ -13,7 +13,7 @@
 * Oak
 
 ### Databases
-MongoDB
+MongoDB 🍃
 
 ### ✨ I'm still learning:
 * Deno
