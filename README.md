@@ -5,10 +5,10 @@
 ### 💿 I code in
 * JavaScript
 * TypeScript 
-* React 
+* React.js
 * Node.js
 * Express
-* Remix run
+* Remix
 * Deno 🦕
 * Oak
 
@@ -16,7 +16,6 @@
 MongoDB 🍃
 
 ### ✨ I'm still learning:
-* Deno
 * PostgreSQL
 * Rust
 * Go
