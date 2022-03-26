@@ -1,5 +1,5 @@
 # gustavocadev
-### Hello! 👋, I’m @gustavocadev (he/him) welcome here! I'm a web developer \\^o^/ 
+### Hi all! 👋, I’m @gustavocadev (he/him) welcome here! I'm a developer \\^o^/  🌱
 
 ## Runtimes / Frameworks 
 ### 💿 I code in
