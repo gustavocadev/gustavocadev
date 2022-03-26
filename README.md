@@ -3,12 +3,12 @@
 
 ## Runtimes / Frameworks 
 ### 💿 I code in
-* JavaScript
-* TypeScript 
-* React.js
+* JavaScript 🟡
+* TypeScript 🔵
+* React.js 
 * Node.js
 * Express
-* Remix
+* Remix 💿
 * Deno 🦕
 * Oak
 
@@ -24,8 +24,8 @@
 MongoDB 🍃
 
 ### ✨ I'm still learning:
-* PostgreSQL
-* Rust
+* PostgreSQL 🐘
+* Rust 🦀
 * Go
 <!---
 gustavoca11/gustavoca11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
