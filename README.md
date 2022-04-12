@@ -9,6 +9,7 @@
 * Node.js
 * Express
 * Remix 💿
+* Next.js
 * Deno 🦕
 * Oak 🪴
 
