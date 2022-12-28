@@ -5,13 +5,15 @@
 ### 💿 I code in
 * JavaScript 🟡
 * TypeScript 🔵
-* React.js 
+* React.js
+* Svelte 
 * Node.js
 * Express
+* Nestjs
 * Remix 💿
 * Next.js
+* SvelteKit
 * Deno 🦕
-* Oak 🪴
 
 ### 🚀 Coding
 <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
@@ -26,8 +28,9 @@ MongoDB 🍃
 
 ### ✨ I'm still learning:
 * PostgreSQL 🐘
-* Rust 🦀
 * Go
+* Python
+* Rust 🦀
 <!---
 gustavoca11/gustavoca11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
