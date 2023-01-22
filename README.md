@@ -50,10 +50,10 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 
 <div width="100%" align="center"><a href="https://github.com/gustavocadev/rust-json-crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=rust-json-crud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gustavocadev/gif-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=gif-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
+<div width="100%" align="center"><a href="https://github.com/gustavocadev/deno-api-crud-mongodb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=deno-api-crud-mongodb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gustavocadev/gustavoca.dev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=gustavoca.dev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
 <br /><br /><br /> <br /> <br />
 
-<div width="100%" align="center"><a href="https://github.com/gustavocadev/deno-api-crud-mongodb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=deno-api-crud-mongodb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gustavocadev/gustavoca.dev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=gustavoca.dev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br />
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/gustavocadev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
