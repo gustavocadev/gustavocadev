@@ -12,6 +12,23 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 * 🧠  I'm learning Rust, Go, Flutter
 * 🤝  I'm open to collaborating on Interesting Projects
 
+
+## Runtimes / Frameworks 
+
+### 💿 I code in
+
+* JavaScript 🟡
+* TypeScript 🔵
+* React.js
+* Svelte 
+* Node.js
+* Express
+* Nestjs
+* Remix 💿
+* Next.js
+* SvelteKit
+* Deno 🦕
+
 ### Skills
 
 <p align="left">
@@ -46,14 +63,6 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 <a href="http://www.github.com/gustavocadev"><img src="https://github-readme-stats.vercel.app/api?username=gustavocadev&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="gustavocadev's GitHub stats" /></a>
 
 <a href="http://www.github.com/gustavocadev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=gustavocadev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/gustavocadev/rust-json-crud" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=rust-json-crud&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gustavocadev/gif-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=gif-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/gustavocadev/deno-api-crud-mongodb" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=deno-api-crud-mongodb&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/gustavocadev/gustavoca.dev" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=gustavocadev&repo=gustavoca.dev&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /> <br /> <br />
 
 ### Support Me
 
