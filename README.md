@@ -9,9 +9,8 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [gustavoca.dev](http://gustavocadev.vercel.app)
 * ✉️  You can contact me at [churaalaygustavo11@gmail.com](mailto:churaalaygustavo11@gmail.com)
-* 🧠  I'm learning Rust, Go, Flutter
+* 🧠  I'm learning Rust, Dart / Flutter
 * 🤝  I'm open to collaborating on Interesting Projects
-
 
 ## Runtimes / Frameworks 
 
@@ -45,6 +44,9 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
+  
+<a href="https://kit.svelte.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/svelte.svg" width="36" height="36" alt="Svelte" /></a>
+  
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
 <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
