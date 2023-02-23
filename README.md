@@ -8,7 +8,7 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 
 * 🌍  I'm based in Perú
 * 🖥️  See my portfolio at [gustavoca.dev](http://gustavocadev.vercel.app) (WIT)
-* ✉️  You can contact me at [churaalaygustavo11@gmail.com](mailto:churaalaygustavo11@gmail.com)
+* ✉️  You can contact me at [gustavocadev@gmail.com](mailto:churaalaygustavo11@gmail.com)
 * 🧠  I'm learning Rust, Dart / Flutter
 * 🤝  I'm open to collaborating on Interesting Projects
 
