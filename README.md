@@ -27,6 +27,7 @@ I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 * Next.js
 * SvelteKit
 * Deno 🦕
+* Qwik ⚡️
 
 ### Skills
 
