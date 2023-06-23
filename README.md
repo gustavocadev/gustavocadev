@@ -6,28 +6,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I’m @gustavocadev (he/him) welcome here! \\^o^/ 🌱
 
-* 🌍  I'm based in Perú
-* 🖥️  See my portfolio at [gustavoca.dev](http://gustavocadev.vercel.app) (WIT)
-* ✉️  You can contact me at [gustavocadev@gmail.com](mailto:churaalaygustavo11@gmail.com)
-* 🧠  I'm learning Rust, Dart / Flutter
+* ✉️  You can contact me at [gustavocadev@gmail.com](mailto:gustavocadev@gmail.com)
 * 🤝  I'm open to collaborating on Interesting Projects
-
-## Runtimes / Frameworks 
-
-### 💿 I code in
-
-* JavaScript 🟡
-* TypeScript 🔵
-* React.js
-* Svelte 
-* Node.js
-* Express
-* Nestjs
-* Remix 💿
-* Next.js
-* SvelteKit
-* Deno 🦕
-* Qwik ⚡️
 
 ### Skills
 
