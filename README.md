@@ -1,8 +1,7 @@
 Hi There!👋 \\^o^/
 ==================================================================================================================================
 
-\- Web programmer
-----------------
+### \- Web programmer
 
 I'm Gustavo (he/him) - I'm a full-stack developer and a systems engineering student based in the Moquegua area, specifically in Ilo. I'm interested in development. I work on random projects in my free time!
 
@@ -17,7 +16,7 @@ I'm Gustavo (he/him) - I'm a full-stack developer and a systems engineering stud
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,supabase,github,html,js,linux,md,materialui,mysql,postgres,mongo,react,nextjs,svelte,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,css,discord,docker,express,figma,supabase,github,html,js,linux,md,materialui,mysql,postgres,mongo,react,nextjs,svelte,solidjs,nodejs,postman,py,redux,tailwind,ts,astro,bash,jest,prisma&perline=15" />
   </a>
 </p>
 
