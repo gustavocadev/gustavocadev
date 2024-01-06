@@ -22,7 +22,7 @@ I'm Gustavo (he/him) - I'm a full-stack developer and a systems engineering stud
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,nestjs,planetscale,powershell,sqlite,vercel,vscode,vite" />
+    <img src="https://skillicons.dev/icons?i=vscode,nestjs,planetscale,powershell,sqlite,vercel,vite" />
   </a>
 </p>
 
