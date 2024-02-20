@@ -16,13 +16,13 @@ I'm Gustavo (he/him) - I'm a full-stack developer and a systems engineering stud
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,bun,deno,express,nestjs,ts,mysql,postgres,mongo,prisma,jest,materialui,redux,react,nextjs,remix,svelte,solidjs,angular,astro,bash,rust,py&perline=15" />
+    <img src="https://skillicons.dev/icons?i=git,html,tailwind,css,js,md,nodejs,bun,deno,express,nestjs,ts,mysql,postgres,mongo,prisma,jest,redux,react,nextjs,remix,svelte,solidjs,angular,astro,bash,rust,py,supabase,github&perline=15" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,planetscale,supabase,powershell,docker,sqlite,linux,postman,vercel,vite" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,planetscale,docker,sqlite,linux,postman,vercel,vite" />
   </a>
 </p>
 
