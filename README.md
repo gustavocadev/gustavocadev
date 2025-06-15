@@ -1,7 +1,7 @@
 Hi There!👋 \\^o^/
 ==================================================================================================================================
 
-### \- Systems Engineer
+### \- Software Engineer
 
 I'm Gustavo (he/him) - I'm a full-stack developer and a systems engineering student based in the Moquegua area, specifically in Ilo. I'm interested in development. I work on random projects in my free time!
 
